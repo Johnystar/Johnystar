@@ -39,6 +39,7 @@
 ![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Python%203-3776AB?style=flat-square&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![](https://img.shields.io/badge/-Free%20Pascal%20(basics)-FFFFFF?style=flat-square)
 ![](https://img.shields.io/badge/-Rust%20(learning)-000?style=flat-square&logo=rust&logoColor=white)
 ![](https://img.shields.io/badge/-Flask-000?style=flat-square&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/-Jinja-B41717?style=flat-square&logo=jinja&logoColor=white)
